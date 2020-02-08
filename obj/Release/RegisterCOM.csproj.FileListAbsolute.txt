@@ -1,0 +1,12 @@
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\bin\Release\RegisterCOM.exe.config
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\bin\Release\RegisterCOM.exe
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\bin\Release\RegisterCOM.pdb
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\bin\Release\MaterialSkin.dll
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.RegisterUI.resources
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.Properties.Resources.resources
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.csproj.GenerateResource.cache
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.csproj.CoreCompileInputs.cache
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.csproj.CopyComplete
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.exe
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.pdb
+C:\Users\rndsof01\Desktop\Practice Source Code\RegisterCOM\obj\Release\RegisterCOM.csprojAssemblyReference.cache
